@@ -1,16 +1,12 @@
-# snake_game
+# Classic Snake Game
 
-A new Flutter project.
+The Classic Snake Game replicated in flutter ***without*** any package like **flame**
 
-## Getting Started
+<!-- [Check out the Android App](https://www.google.com) -->
 
-This project is a starting point for a Flutter application.
+<!-- !To be hosted -->
+<!-- [Check out the Web App](https://www.google.com) -->
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Image 2](media/screen-record.gif)
